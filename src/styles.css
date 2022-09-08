@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+}
+
+#root {
+  position: relative;
+  display: block;
+  width: 100%;
+  min-height: 1px;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+h1 {
+  font-size: 18px;
+}
